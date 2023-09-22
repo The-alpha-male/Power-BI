@@ -9,7 +9,6 @@ Started cleaning the dataset by removing the following columns
 - `country`
 - `reference`
   
-The above columns were irrelevant and empty as they were left out during the survey to give the survey takers some privacy on their data.
-
+The above columns were irrelevant and empty as they were left out during the survey to give the survey takers some privacy on their data
 ## Visualization Dashboard
 <img width="660" alt="Power-Bi" src="https://github.com/The-alpha-male/Power-BI/assets/69481921/779933b1-d09a-438f-a10b-605a765e90d3">
