@@ -8,6 +8,7 @@ Started cleaning the dataset by removing the following columns
 - `city`
 - `country`
 - `reference`
+
 Cleaned the `current role ` column
   
 The above columns were irrelevant and empty as they were left out during the survey to give the survey takers some privacy on their data
