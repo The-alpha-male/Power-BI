@@ -1,6 +1,6 @@
 # Power-BI Data Professionals Analysis
 ### Data-set
-The data set can be downloaded from the file uploaded named `Power-BI learning` which is an actual dataset collected from an online survey of data professionals.The survey as taken on linkedin and twitter by AlexTheAnalyst. Link to original dataset on his githib account [Here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) 
+The data set can be downloaded from the file uploaded named `Power-BI learning` which is an actual dataset collected from an online survey of data professionals.The survey as taken on linkedin and twitter by AlexTheAnalyst. Link to original dataset on his githib account [HERE](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) 
 
 ## Data cleaning and preparation
 Started cleaning the dataset by removing the following columns
